@@ -1,0 +1,11 @@
+# Hardhat dataset configuration
+path : /C:/Users/Tanishq/Desktop/Work/computer_vision/Hardhat
+train: C:\Users\Tanishq\Desktop\Work\computer_vision\Hardhat\train\images
+val: C:\Users\Tanishq\Desktop\Work\computer_vision\Hardhat\valid\images
+test: C:\Users\Tanishq\Desktop\Work\computer_vision\Hardhat\test\images
+
+# Number of classes
+nc: 2
+
+# Class names
+names: ['helmet', 'head']
